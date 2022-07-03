@@ -2,8 +2,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================
 
 * 🌍  I'm based in Turkiye
-* 🚀  I'm currently working on [<img src="https://i.imgur.com/gYGgmXG.png" width="64" height="48" />](https://www.instagram.com/granikos_organik/)
 * 🧠  I'm learning Django
+* 🚀  I'm currently working on 
+                               [<img src="https://i.imgur.com/gYGgmXG.png" width="64" height="48" />](https://www.instagram.com/granikos_organik/)
 
 <a href="https://www.github.com/tinmazemir" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/tinmazemir?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
