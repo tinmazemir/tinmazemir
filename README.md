@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================
 
 * 🌍  I'm based in Turkiye
-* 🚀  I'm currently working on [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />](https://www.instagram.com/granikos_organik/)
+* 🚀  I'm currently working on [<img src="https://instagram.fyei1-1.fna.fbcdn.net/v/t51.2885-19/272792220_637117710869540_1972823104592773202_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fyei1-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=LstlyxoAWxwAX_7TNnE&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT_AZjf5TyAiyMZFca3PnR_B5msMUp_DA22W0Wvj-7jwKQ&oe=62C7FFD0&_nc_sid=5cbaad" width="32" height="32" />](https://www.instagram.com/granikos_organik/)
 * 🧠  I'm learning Django
 
 <a href="https://www.github.com/tinmazemir" target="_blank" rel="noreferrer"><img
